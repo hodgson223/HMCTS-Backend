@@ -10,11 +10,6 @@ It connects to a **MongoDB Atlas** database and provides API endpoints for creat
 - List all tasks (`GET /tasks`) for testing or verification  
 - Input validation and error handling  
 - Stores data in MongoDB Atlas database `HMCTS`  
-- Ready for unit testing with Jest + Supertest  
-
----
-
-
 
 - Node.js (v18+)  
 - npm  
