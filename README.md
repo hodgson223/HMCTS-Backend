@@ -10,7 +10,7 @@ It connects to a **MongoDB Atlas** database and provides API endpoints for creat
 - List all tasks (`GET /tasks`) for testing or verification  
 - Input validation and error handling  
 - Stores data in MongoDB Atlas database `HMCTS`
-- bcrpy used for hashing passwords before storing them in mongodb
+- bcrpyt used for hashing passwords before storing them in mongodb
 
 - Node.js (v18+)  
 - npm  
